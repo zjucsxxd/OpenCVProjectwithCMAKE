@@ -1,0 +1,2 @@
+This project is a example about how to create a opencv based project without adding headfile and libraries manually. Thanks to CMAKE 2.8, we could do that by just creating a CMakeList.txt.
+                 Shuai Zheng (Kyle) at Oxford, 2011
